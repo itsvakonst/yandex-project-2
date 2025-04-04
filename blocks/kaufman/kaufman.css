@@ -1,0 +1,29 @@
+/* Темная секция Кауфмана */
+.kaufman {
+  padding: 90px 0;
+  background-color: #1f1f1f;
+  position: relative;
+  color: white;
+  overflow: hidden;
+}
+
+/* Таблица в секции Кауфмана */
+.kaufman .table {
+  width: 1100px;
+  margin: 80px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 80px 0;
+}
+
+/* Ячейка таблицы Кауфмана */
+.kaufman .table__cell {
+  width: 200px;
+  margin-right: 20px;
+}
+
+/* Убираем отступ у каждой 5-й ячейки */
+.kaufman .table__cell:nth-child(5n) {
+  margin-right: 0;
+}

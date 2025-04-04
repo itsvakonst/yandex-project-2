@@ -1,0 +1,16 @@
+/* Заголовок в ячейке таблицы */
+.table__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+
+/* Темная тема для заголовка таблицы */
+.table__heading_theme_dark {
+  color: white;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}

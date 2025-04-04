@@ -1,0 +1,16 @@
+/* Стили для заголовка секции */
+.section__title {
+  width: 60%;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  margin: 0 auto 20px;
+}
+
+/* Темная тема для заголовка секции */
+.section__title_theme_dark {
+  color: white;
+  position: relative;
+  z-index: 1;
+}

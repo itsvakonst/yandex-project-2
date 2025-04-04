@@ -1,0 +1,10 @@
+/* Ячейка таблицы */
+.table__cell {
+  width: 250px;
+}
+
+
+/* Темная тема для ячейки таблицы */
+.table__cell_theme_dark {
+  color: white;
+}

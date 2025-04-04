@@ -1,0 +1,9 @@
+/* Главное изображение в шапке */
+.header__main-pic {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 755px;
+  height: 608px;
+  z-index: 2;
+}

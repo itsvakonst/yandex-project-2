@@ -1,0 +1,7 @@
+.footer__author-link{
+  color: #fff;
+}
+
+.footer__author-link:hover {
+  opacity: .7;
+}

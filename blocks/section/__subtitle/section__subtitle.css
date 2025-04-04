@@ -1,0 +1,16 @@
+/* Стили для подзаголовка секции */
+.section__subtitle {
+  width: 60%;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 0 auto;
+}
+
+/* Темная тема для подзаголовка секции */
+.section__subtitle_theme_dark {
+  color: white;
+  position: relative;
+  z-index: 1;
+}
